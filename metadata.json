@@ -2,6 +2,10 @@
   "name": "CrazyMEME",
   "symbol": "CRAZY",
   "description": "The fairest meme launch platform.Let's go crazy!",
-  "image": "",
-  "website": "https://crazy.meme"
+  "image": "https://github.com/glowly29/logos/blob/main/crazymeme-logo.jpg",
+  "extensions": {
+    "website": "https://crazy.meme",
+    "twitter": "",
+    "telegram": ""
+  }
 }
